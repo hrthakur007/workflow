@@ -1,0 +1,15 @@
+/* line 1, src/sass/style.scss */
+body {
+  font-size: 20px;
+}
+
+/* line 3, src/sass/style.scss */
+body a {
+  color: red;
+}
+
+/* line 8, src/sass/style.scss */
+h1 {
+  font-size: 40px;
+  color: blue;
+}
